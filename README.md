@@ -1,2 +1,1 @@
-# devops
-DevOps
+# Project URL: https://roadmap.sh/projects/server-stats
